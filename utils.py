@@ -8,7 +8,7 @@ class Utility:
 
     def __init__(self):
         self.__password = 'smartsheet'
-        self.__access_key = '4ocqq4vamck5tv8bl3h82iikzw'
+        self.__access_key = '<your access token here>'
         self.sheet_name = None
 
     def password_check(self):
